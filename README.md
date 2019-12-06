@@ -77,6 +77,12 @@ $ ./tools/iterm2terminal.swift /path/to/my/awesome-scheme.itermcolors
 ### Base2Tone-ForestLight
 ![Screenshot](screenshots/Base2Tone_ForestLight.png)
 
+### Base2Tone-GardenDark
+![Screenshot](screenshots/Base2Tone_GardenDark.png)
+
+### Base2Tone-GardenLight
+![Screenshot](screenshots/Base2Tone_GardenLight.png)
+
 ### Base2Tone-DesertDark
 ![Screenshot](screenshots/Base2Tone_DesertDark.png)
 
@@ -100,6 +106,18 @@ $ ./tools/iterm2terminal.swift /path/to/my/awesome-scheme.itermcolors
 
 ### Base2Tone-DrawbridgeLight
 ![Screenshot](screenshots/Base2Tone_DrawbridgeLight.png)
+
+### Base2Tone-LavenderDark
+![Screenshot](screenshots/Base2Tone_LavenderDark.png)
+
+### Base2Tone-LavenderLight
+![Screenshot](screenshots/Base2Tone_LavenderLight.png)
+
+### Base2Tone-SuburbDark
+![Screenshot](screenshots/Base2Tone_SuburbDark.png)
+
+### Base2Tone-SuburbLight
+![Screenshot](screenshots/Base2Tone_SuburbLight.png)
 
 ### Base2Tone-PoolDark
 ![Screenshot](screenshots/Base2Tone_PoolDark.png)
